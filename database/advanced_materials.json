@@ -1,0 +1,41 @@
+[
+  {
+    "id": "aerogel",
+    "name": "Aerogel",
+    "recipe":[
+      {"id":"gelsack"},
+      {"id":"ruby"}
+    ]
+  },
+  {
+    "id": "benzene",
+    "name": "Benzene",
+    "recipe":[
+      {"id":"bloodoil", "quantity":3}
+    ]
+  },
+  {
+    "id": "hydrochloricacid",
+    "name": "Hydrochloric Acid",
+    "recipe":[
+      {"id":"deepshroom", "quantity":3},
+      {"id":"salt"}
+    ]
+  },
+  {
+    "id": "polyaniline",
+    "name": "Polyaniline",
+    "recipe":[
+      {"id":"hydrochloricacid"},
+      {"id":"gold"}
+    ]
+  },
+  {
+    "id": "syntheticfibers",
+    "name": "Synthetic Fibers",
+    "recipe":[
+      {"id":"benzene"},
+      {"id":"fibermesh"}
+    ]
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "id": "aliencontainment",
+    "name": "Alien Containment",
+    "hullIntegrity": 0,
+    "recipe":[
+      {"id":"titanium", "quantity":2},
+      {"id":"glass", "quantity":5}
+    ]
+  },
+  {
+    "id": "bulkhead",
+    "name": "Bulkhead",
+    "hullIntegrity": 3,
+    "recipe":[
+      {"id":"titanium", "quantity":3},
+      {"id":"siliconerubber"}
+    ]
+  },  
+  {
+    "id": "basiccompartment",
+    "name": "Basic Compartment",
+    "hullIntegrity": -1,
+    "recipe":[
+      {"id":"titanium", "quantity":2}
+    ]
+  },  
+  {
+    "id": "glasscompartment",
+    "name": "Glass Compartment",
+    "hullIntegrity": -2,
+    "recipe":[
+      {"id":"glass", "quantity":2}
+    ]
+  },  
+  {
+    "id": "lcompartment",
+    "name": "L-shaped Compartment",
+    "hullIntegrity": -1,
+    "recipe":[
+      {"id":"titanium", "quantity":2}
+    ]
+  }, 
+  {
+    "id": "lglasscompartment",
+    "name": "L-shaped Glass Compartment",
+    "hullIntegrity": -2,
+    "recipe":[
+      {"id":"glass", "quantity":2}
+    ]
+  }, 
+  {
+    "id": "tcompartment",
+    "name": "T-shaped Compartment",
+    "hullIntegrity": -1,
+    "recipe":[
+      {"id":"titanium", "quantity":3}
+    ]
+  }, 
+  {
+    "id": "xcompartment",
+    "name": "X-shaped Compartment",
+    "hullIntegrity": -1,
+    "recipe":[
+      {"id":"titanium", "quantity":3}
+    ]
+  }, 
+  {
+    "id": "foundation",
+    "name": "Foundation",
+    "hullIntegrity": 2,
+    "recipe":[
+      {"id":"titanium", "quantity":2},
+      {"id":"lead", "quantity":2}
+    ]
+  }, 
+  {
+    "id": "hatch",
+    "name": "Hatch",
+    "hullIntegrity": -1,
+    "recipe":[
+      {"id":"titanium", "quantity":2},
+      {"id":"quartz"}
+    ]
+  },
+  {
+    "id": "ladder",
+    "name": "Ladder",
+    "hullIntegrity": -3,
+    "recipe":[
+      {"id":"titanium", "quantity":2}
+    ]
+  },
+  {
+    "id": "wallplanter",
+    "name": "Wall Planter",
+    "hullIntegrity": 0,
+    "recipe":[
+      {"id":"titanium"}
+    ]
+  },
+  {
+    "id": "moonpool",
+    "name": "Moonpool",
+    "hullIntegrity": -5,
+    "recipe":[
+      {"id":"titaniumingot", "quantity":2},
+      {"id":"lead", "quantity":2},
+      {"id":"lubricant"}
+    ]
+  },
+  {
+    "id": "multipurpose_room",
+    "name": "Multipurpose Room",
+    "hullIntegrity": -1.25,
+    "recipe":[
+      {"id":"titanium", "quantity":6}
+    ]
+  },
+  {
+    "id": "observatory",
+    "name": "Observatory",
+    "hullIntegrity": -3,
+    "recipe":[
+      {"id":"titanium"},
+      {"id":"enameledglass", "quantity":2}
+    ] 
+  },
+  {
+    "id": "reinforcement",
+    "name": "Reinforcement",
+    "hullIntegrity": 7,
+    "recipe":[
+      {"id":"titanium", "quantity":3},
+      {"id":"lithium"}
+    ]
+  },
+  {
+    "id": "scanner",
+    "name": "Scanner Room",
+    "hullIntegrity": -1,
+    "recipe":[
+      {"id":"titanium", "quantity":5},
+      {"id":"copper", "quantity":2},
+      {"id":"gold"},
+      {"id":"table_coral_sample"}
+    ] 
+  }, 
+  {
+    "id": "spotlight",
+    "name": "Spotlight",
+    "hullIntegrity": 0,
+    "recipe":[
+      {"id":"titanium", "quantity":2},
+      {"id":"glass"}
+    ] 
+  }, 
+  {
+    "id": "upgradeconsole",
+    "name": "Vehicle Upgrade Console",
+    "hullIntegrity": 0,
+    "recipe":[
+      {"id":"titanium", "quantity":3},
+      {"id":"copperwire"},
+      {"id":"computerchip"}
+    ] 
+  },
+  {
+    "id": "verticalconnector",
+    "name": "Vertical Connector",
+    "hullIntegrity": -0.5,
+    "recipe":[
+      {"id":"titanium", "quantity":2},
+      {"id":"glass"}
+    ] 
+  }, 
+  {
+    "id": "waterfiltration",
+    "name": "Water Filtration Machine",
+    "hullIntegrity": -2,
+    "recipe":[
+      {"id":"titanium", "quantity":3},
+      {"id":"copperwire"},
+      {"id":"aerogel"}
+    ] 
+  }, 
+  {
+    "id": "window",
+    "name": "Window",
+    "hullIntegrity": -1,
+    "recipe":[
+      {"id":"glass"}
+    ] 
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "titanium",
+    "name": "Titanium"
+  },
+  {
+    "id": "copper",
+    "name": "Copper Ore"
+  },
+  {
+    "id": "cavesulfur",
+    "name": "Cave Sulfur"
+  },
+  {
+    "id": "diamond",
+    "name": "Diamond"
+  },
+  {
+    "id": "gaspod",
+    "name": "Gas Pod"
+  },
+  {
+    "id": "gold",
+    "name": "Gold"
+  },
+  {
+    "id": "kyanite",
+    "name": "Kyanite"
+  },
+  {
+    "id": "lead",
+    "name": "Lead"
+  },
+  {
+    "id": "magnetite",
+    "name": "Magnetite"
+  },
+  {
+    "id": "nickel",
+    "name": "Nickel Ore"
+  },
+  {
+    "id": "quartz",
+    "name": "Quartz"
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby"
+  },
+  {
+    "id": "silver",
+    "name": "Silver Ore"
+  },
+  {
+    "id": "stalkertooth",
+    "name": "Stalker Tooth"
+  },
+  {
+    "id": "crystalline",
+    "name": "Crystalline Sulfur"
+  },
+  {
+    "id": "uraninite",
+    "name": "Uraninite Crystal"
+  },
+  {
+    "id": "salt",
+    "name": "Salt"
+  },
+  {
+    "id": "coral_tube_sample",
+    "name": "Coral Tube Sample"
+  },
+  {
+    "id": "table_coral_sample",
+    "name": "Table Coral Sample"
+  },
+  {
+    "id": "acidshroom",
+    "name": "Acid Shroom"
+  },
+  {
+    "id": "deepshroom",
+    "name": "Deep Shroom"
+  },
+  {
+    "id": "gelsack",
+    "name": "Gel Sack"
+  },  
+  {
+    "id": "bloodoil",
+    "name": "Blood Oil"
+  },
+  {
+    "id": "creepvineseed",
+    "name": "Creepvine Seed Cluster"
+  },
+  {
+    "id": "creepvinepiece",
+    "name": "Creepvine Sample"
+  }
+]

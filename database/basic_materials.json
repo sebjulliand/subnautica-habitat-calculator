@@ -1,0 +1,61 @@
+[
+  {
+    "id": "bleach",
+    "name": "Bleach",
+    "recipe":[
+      {"id":"salt"},
+      {"id":"coral_tube_sample"}
+    ]
+  },  
+  {
+    "id": "enameledglass",
+    "name": "Enameled Glass",
+    "recipe":[
+      {"id":"glass"},
+      {"id":"stalkertooth"}
+    ]
+  },  
+  {
+    "id": "fibermesh",
+    "name": "Fiber Mesh",
+    "recipe":[
+      {"id":"creepvinepiece", "quantity":2}
+    ]
+  },
+  {
+    "id": "glass",
+    "name": "Glass",
+    "recipe":[
+      {"id":"quartz", "quantity":2}
+    ]
+  },
+  {
+    "id": "lubricant",
+    "name": "Lubricant",
+    "recipe":[
+      {"id":"creepvineseed"}
+    ]
+  },
+  {
+    "id": "titaniumingot",
+    "name": "Titanium Ingot",
+    "recipe":[
+      {"id":"titanium", "quantity": 10}
+    ]  
+  },
+  {
+    "id": "plasteelingot",
+    "name": "Plasteel Ingot",
+    "recipe":[
+      {"id":"plasteelingot"}, 
+      {"id":"lithium", "quantity":2}
+    ]
+  },
+  {
+    "id": "siliconerubber",
+    "name": "Silicone Rubber",
+    "recipe":[
+      {"id":"creepvineseed"}
+    ]
+  }  
+]
